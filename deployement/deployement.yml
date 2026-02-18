@@ -26,6 +26,6 @@ spec:
   selector:
     app: willapp
   ports:
-  - port: 8888
+  - port: 8080
     targetPort: 8888
 
